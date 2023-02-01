@@ -1,0 +1,19 @@
+
+Data: 
+Actor Box Office FINAL: 156 instances, 13 variables
+Features: 9 (2 categorical, 7 numeric) (6.3% missing values)
+Metas: 4 (1 categorical, 1 numeric, 2 string)
+
+
+after filter in orange
+
+Selected Data: 
+-
+Data: 
+Actor Box Office FINAL: 156 instances, 14 variables
+Features: 9 (2 categorical, 7 numeric) (6.3% missing values)
+Target: categorical
+Metas: 4 (1 categorical, 1 numeric, 2 string)
+Features: 
+DomesticBoxOffice, WorldwideBoxOffice
+ 
